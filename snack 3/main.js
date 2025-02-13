@@ -6,6 +6,4 @@ for (let i = 0; i < 10; i++) {
     const usernumb = number.push(prompt("write number"));
     console.log(usernumb)
     sum = sum + usernumb
-
-
 }
